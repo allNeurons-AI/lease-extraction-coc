@@ -27,7 +27,7 @@ In testing, the skill reviewed 5 lease packages in under 5 minutes (vs. 2–3 ho
 
 This skill is scoped specifically to **Change of Control / transfer-risk review** — it is not a general-purpose lease abstraction tool.
 
-## Demo
+## How to use
 
 **1. Attach your lease files and run the skill**
 
